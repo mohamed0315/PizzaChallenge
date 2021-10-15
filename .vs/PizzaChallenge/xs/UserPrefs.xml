@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{F0E74B3D-7C65-44AF-840C-B3EA0864EF72}|Default">
+  <MonoDevelop.Ide.ItemProperties.pizza PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="pizza/Service/PizzaService.cs">
+    <Files>
+      <File FileName="pizza/Controllers/BasketController.cs" Line="114" Column="9" />
+      <File FileName="pizza/Controllers/PizzaController.cs" Line="1" Column="1" />
+      <File FileName="pizza/Startup.cs" Line="1" Column="1" />
+      <File FileName="pizza/Program.cs" Line="1" Column="1" />
+      <File FileName="pizza/Service/PriceService.cs" Line="1" Column="1" />
+      <File FileName="pizza/Service/PizzaService.cs" Line="1" Column="1" />
+      <File FileName="pizza/Properties/launchSettings.json" Line="31" Column="1" />
+      <File FileName="pizza/Service/dto/BasketDto.cs" Line="1" Column="1" />
+      <File FileName="pizza/Service/dto/PizzaDto.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PizzaChallenge" expanded="True">
+            <Node name="pizza" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Custom" expanded="True" />
+              <Node name="Domain" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Service" expanded="True">
+                <Node name="dto" expanded="True" />
+                <Node name="PizzaService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
